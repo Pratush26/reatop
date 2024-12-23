@@ -1,0 +1,12 @@
+nav{
+    background-color: var(--c2);
+    justify-content: space-between;
+    padding: 1vw 3vw;
+}
+ul{
+    list-style-type: none;
+    gap: 3vw;
+}
+a{
+    text-decoration: none;
+}
